@@ -11,7 +11,7 @@ public class UiController : MonoBehaviour
     public int score;
     public TextMeshProUGUI ScoreText;
     public Image spriteTarget;
-    public Image spritePrefab; // Prefab of the Image to instantiate
+    public Image spritePrefab; 
     public Canvas canvas;
 
     private void Awake()
